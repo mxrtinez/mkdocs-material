@@ -19,16 +19,15 @@
 # IN THE SOFTWARE.
 
 # Project information
-site_name: Material for MkDocs
-site_url: https://squidfunk.github.io/mkdocs-material/
-site_author: Martin Donath
+site_name: Taller Marzo
+site_url: https://mxrtinez.github.io/mkdocs-material/
+site_author: Alex M
 site_description: >-
-  Write your documentation in Markdown and create a professional static site in
-  minutes – searchable, customizable, for all devices
+  Taller mes de la mujer y la niña en la ciencia
 
 # Repository
-repo_name: squidfunk/mkdocs-material
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_name: mxrtinez/mkdocs-material
+repo_url: https://github.com/mxrtinez/mkdocs-material
 
 # Copyright
 copyright: Copyright &copy; 2016 - 2023 Martin Donath
